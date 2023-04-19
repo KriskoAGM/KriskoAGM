@@ -16,5 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriskoagm&show_icons=true&locale=en&layout=compact" alt="kriskoagm" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kriskoagm&show_icons=true&locale=en" alt="kriskoagm" /></p>
-
